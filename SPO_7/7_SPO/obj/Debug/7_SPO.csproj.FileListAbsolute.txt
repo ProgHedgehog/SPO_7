@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Универ\СПО\7\7_SPO\7_SPO\bin\Debug\7_SPO.exe.config
+C:\Users\User\Desktop\Универ\СПО\7\7_SPO\7_SPO\bin\Debug\7_SPO.exe
+C:\Users\User\Desktop\Универ\СПО\7\7_SPO\7_SPO\bin\Debug\7_SPO.pdb
+C:\Users\User\Desktop\Универ\СПО\7\7_SPO\7_SPO\obj\Debug\7_SPO.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Универ\СПО\7\7_SPO\7_SPO\obj\Debug\7_SPO.exe
+C:\Users\User\Desktop\Универ\СПО\7\7_SPO\7_SPO\obj\Debug\7_SPO.pdb
